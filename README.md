@@ -1,5 +1,9 @@
 # Ethereum Docker
 
+#### 进入挖矿节点方法
+sh docker-exec.sh [n]
+说明： n=1,2,3,4分别代表第1，2，3，4节点
+
 #### 修改
 
 移除了mac上/etc/localtime绑定不上
